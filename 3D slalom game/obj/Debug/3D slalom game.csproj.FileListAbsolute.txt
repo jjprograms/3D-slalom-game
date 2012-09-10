@@ -6,3 +6,5 @@ C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\3D slalom game\3D slalom game\obj\Debug\_3D_slalom_game.Form1.resources
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\3D slalom game\3D slalom game\obj\Debug\3D slalom game.exe
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\3D slalom game\3D slalom game\obj\Debug\3D slalom game.pdb
+H:\3D slalom game\3D slalom game\obj\Debug\3D slalom game.exe
+H:\3D slalom game\3D slalom game\obj\Debug\3D slalom game.pdb
